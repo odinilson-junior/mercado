@@ -19,6 +19,7 @@
 	
 	$url = "http://".$host_ip."/";
 
+	
 	$url_admin = "http://".$host_ip."/admin";
 	$url_aluno = "http://".$host_ip."/admin/aluno";
 	$url_cliente = "http://".$host_ip."/admin/cliente";
