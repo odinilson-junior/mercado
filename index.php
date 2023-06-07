@@ -9,7 +9,7 @@
 	<title>Portal</title>
 
 	<!-- ARQUIVO DE ESTILOS DO PORTAL -->
-	<link rel="stylesheet" type="text/css" href="http://localhost/portal/css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost/mercado/css/estilo.css">
 	
 </head>
 
