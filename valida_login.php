@@ -23,7 +23,6 @@
 			$_SESSION['url_admin'] = $url_admin;
 			$_SESSION['url_aluno'] = $url_aluno;
 					
-			
 				if($_SESSION['tipo_login'] == 0){
 
 					/*echo "<script> alert('Administrador [LOGADO]');</script>";*/
