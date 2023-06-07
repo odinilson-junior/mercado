@@ -9,7 +9,7 @@
 
 		echo "<script> alert ('ERRO: É NECESSÁRIO FAZER LOGIN');</script>";
 		
-		echo "<script> window.location.href='http://localhost/portal';</script>";
+		echo "<script> window.location.href='$url_admin';</script>";
 
 	}	
 
